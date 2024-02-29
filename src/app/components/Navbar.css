@@ -1,0 +1,18 @@
+
+.navbarcss {
+    background: linear-gradient(90deg, #3083d5, #2abebe);
+  }
+  
+  .brand-text {
+    color: white; /* Set your desired color for the brand text */
+  }
+
+  .logoimg{
+    height: 60px;
+    width: 60px;
+  }
+  .nav-item{
+    font-size: 17px;
+    padding: 15px;
+  }
+  

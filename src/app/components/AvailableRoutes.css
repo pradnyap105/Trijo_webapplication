@@ -1,0 +1,29 @@
+.HeadRoutes{
+    padding-top: 2%;
+    font-weight: 500 !important;
+    font-family: Rockwell;
+    text-align: center;
+}
+.HeadRoutes2{
+    text-align: center;
+    position: relative;
+}
+.btnroutes{
+    width: 5%;
+    height: -7%;
+    height: min-content;
+    font-size: 55%;
+}
+.Community{
+    text-align: center;
+    color:#3e8ed0;
+    font-size: 1.375rem;
+    font-family: Rockwell;
+    margin-left: 43%;
+}
+.card-text{
+    color:#3e8ed0;
+    font-weight: bold;
+    margin: 2%;
+
+}

@@ -1,0 +1,23 @@
+/* .cardimg{
+    height: 70%;
+}
+.card-title{
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.card-text{
+    font-size: 0.875rem;
+} */
+.Feature{
+    padding: 3%;
+    font-weight: 500 !important;
+    font-family: Rockwell;
+}
+.A{
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: blueviolet;
+}
+.text{
+    font-size: 0.875rem;
+}

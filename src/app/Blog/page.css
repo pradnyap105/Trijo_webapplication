@@ -1,0 +1,64 @@
+.profile-name {
+  text-align: center;
+  color: #23b7ab;
+  font-size: 18px;
+  line-height: 50px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #f1f1f1;
+  text-transform: capitalize;
+}
+.iconblog {
+  font-size: 24px;
+  margin-left: 15px;
+  padding: 2px;
+}
+.card-text {
+  padding: 2%;
+  margin-left: 50px;
+}
+.numblog {
+  padding-left: 5px;
+}
+.flexblog {
+  display: flex;
+  margin-left: 50px;
+}
+.blogimg {
+  width: 300px;
+  height: 115px;
+  border-radius: 3px;
+}
+.cardmarg {
+  padding-bottom: 10%;
+}
+.card {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+    0 0px 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  margin: 10px 10px 10px;
+  position: relative;
+}
+.MidCard {
+  display: flex;
+}
+.secondary {
+  margin-left: 30px;
+}
+.Titleblog {
+  color: #23b7ab;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.HeadBlog {
+  font-style: inherit;
+  font-weight: inherit;
+  padding: 2px;
+  border-bottom-color: #485fc7;
+  color: #485fc7;
+  border-bottom-width: 3px;
+  padding: 0.5em 2em;
+}

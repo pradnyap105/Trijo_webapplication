@@ -1,0 +1,22 @@
+.footerlogo{
+    height: 50%;
+    width: 50%;
+  
+    height: 80%;
+    padding: 10%;
+    text-align: center;
+}
+.Footer{
+    background-color: #4a4a4a;
+
+}  
+.Logosf{
+   
+    width: 33.33333337%;
+}
+.Direction{
+    flex-direction:column;
+}
+.logo2{
+    margin-top: 10px;
+}

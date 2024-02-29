@@ -1,0 +1,21 @@
+.Regform {
+    padding-top: 10px;
+    gap: 1%;
+  }
+  .Inputcss {
+    border-color: #3083d5;
+  }
+  .Textt{
+      font-weight: 600;
+      font-size: 12px;
+  }
+  .bottomtext{
+  margin-top: 2%;
+  }
+  .newaccount{
+      color: #3083d5;
+  }
+  .sing-img{
+      max-width: 100%;
+      height: auto;
+  }

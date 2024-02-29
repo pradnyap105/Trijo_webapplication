@@ -1,0 +1,32 @@
+.Loginhead{
+    color: #3083d5;
+    font-size: 2rem !important;
+}
+.Loginmain{
+   margin-top: 50px;
+  
+   
+}
+.Logininput{
+    width: 51%;
+    border-color: #3083d5;
+}
+ 
+.Loginsec2{
+    margin-top: 16px;
+}
+.form-label{
+    display: inline-block;
+    color: #3083d5;
+    margin-left: 30%;
+}
+.loginsubmit{
+    width: 48%;
+    border-radius: 9999px;
+    margin-top: 25px;
+}
+.login-img{
+    width: 346px;
+    height: 345px;
+    max-width: 100%;
+}

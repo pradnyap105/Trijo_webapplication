@@ -1,0 +1,14 @@
+.Plan {
+  background-color:#eff3f4;
+}
+.Planhead {
+  padding-top: 45px;
+  font-weight: 500;
+  font-size: 1.6rem;
+  font-family: Rockwell;
+}
+.Planedbottom{
+    padding-top: 35px;
+   
+    font-size: 20px;
+}
